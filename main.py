@@ -1,5 +1,4 @@
 #Tanner Slusher 2/16/22
-#4.6 B
 
 import random
 
